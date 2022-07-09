@@ -1,0 +1,58 @@
+label_id,label,kg_CO2eq_per_person_km,remarks
+-5000,No data,,
+0,Idle,0,
+1,Walk,0,
+2,Run,0,
+3,Bike,0.008,
+4,E-Bike,0.024,
+5,Tram,0.037,
+6,Bus,0.128,
+7,Train,0.007,
+8,Boat,0.151,
+9,Funicular,0.052,Like Aerial Lift
+10,Cable Car,0.052,Like Aerial Lift
+11,Aerial Lift,0.052,
+12,Subway,0.008,"Lausanne: Like S-Bahn, Regionalverkehr"
+13,Car,0.198,"1.6 Plätze, 1 = 0.333"
+14,E-Car,0.091,
+15,Motorcycle,0.190,1 Person
+16,Moped,0.134,"1 Person, like Scooter"
+17,Airplane,0.241,Europe
+18,Scooter,0.134,1 Person
+19,E-Scooter,0.030,
+30,Skateboard,0.004,Half of a Bike
+31,Downhill Ski,,
+32,Cross Country Ski,,
+33,Snowboard,,Like Downhill Ski
+34,Ice Skates,,
+35,Snowshoe,0.004,Like Skateboard
+36,Wheelchair,0.008,Like a Bike
+37,Kick Scooter,0.008,Like a Bike
+38,E-Kick Scooter,0.024,Like an E-Bike
+39,E-Skateboard,0.020,Like an E-Bike minus half of a Bike
+40,Roller Skates,0.004,Like Skateboard
+41,Segway,,
+42,Escalator,,
+43,Horse,,
+44,Sailboat,,
+45,Kayak,,
+46,Rowing Boat,,
+47,Canoe,,
+48,Golf Cart,,
+49,Roller Ski,,
+50,Paintball,,
+51,Truck,,
+52,Chairlift,,
+53,Helicopter,,80km/h for 30min
+54,Hang Glider,,
+55,Airship,,
+56,E-Wheelchair,0.024,Like an E-Bike
+57,Elevator,,
+58,Sled,,
+59,Taxi,0.198,
+60,Uber,0.198,
+61,Lyft,0.198,
+99,In Vehicle,,
+100,Public Transport,,
+101,Unknown,,
+102,Other3,,
